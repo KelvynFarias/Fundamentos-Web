@@ -138,8 +138,7 @@ height: 50px;
 
 .container1{
     display: flex;
-    flex-flow: row;
-   
+    flex-flow: row;  
     margin-bottom: 50px;
     margin-top: 50px;
     
